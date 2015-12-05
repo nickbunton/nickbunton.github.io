@@ -4,7 +4,18 @@
         /*justify-content: center;*/
           width: 100%;
           border-radius: 0px;
-        
+
+      }
+
+}
+
+@media (max-width:400px){
+
+      .container section{
+        /*justify-content: center;*/
+          width: 100%;
+          border-radius: 0px;
+
       }
 
 }

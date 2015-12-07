@@ -9,18 +9,6 @@
 
 }
 
-@media (max-width:667px){
-
-      .container section{
-        /*justify-content: center;*/
-          width: 100%;
-          border-radius: 0px;
-
-      }
-
-}
-
-
 iframe{
   align:center;
 }
@@ -159,4 +147,28 @@ p{
   display:block;
   margin: auto;
   margin-bottom: 5%;
+}
+
+.contain {
+  
+  width: 100%;
+  border: 1px solid #d3d3d3;
+}
+
+.contain div {
+
+  width: 100%;
+}
+
+.contain .header {
+  background-color: #d3d3d3;
+  padding: 2px;
+
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.contain .content {
+  display: none;
+  padding: 5px;
 }

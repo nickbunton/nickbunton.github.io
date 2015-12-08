@@ -9,6 +9,7 @@
 
 }
 
+
 iframe{
   align:center;
 }
@@ -150,9 +151,17 @@ p{
 }
 
 .contain {
-  
+  display:flex;
   width: 100%;
-  border: 1px solid #d3d3d3;
+  height: 20%;
+  border: 1px solid;
+  margin-top: 10%;
+  margin-bottom: 2%;
+
+}
+
+.contain p{
+   
 }
 
 .contain div {
@@ -161,7 +170,7 @@ p{
 }
 
 .contain .header {
-  background-color: #d3d3d3;
+  background-color: #4169E1;
   padding: 2px;
 
   cursor: pointer;

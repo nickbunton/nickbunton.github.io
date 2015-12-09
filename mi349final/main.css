@@ -9,7 +9,9 @@
 
 }
 
-
+.about{
+  text-align: center;
+}
 iframe{
   align:center;
 }
@@ -160,9 +162,7 @@ p{
 
 }
 
-.contain p{
-   
-}
+
 
 .contain div {
 

@@ -16,12 +16,14 @@
       }
 
 }
+
 .twitter{
   text-align: center;
-
+  margin-top: 5%;
 }
 .twitter p{
   color: black;
+
 
 }
 h1{
@@ -35,15 +37,18 @@ h2{
 .about{
   text-align: center;
 }
+
 iframe{
   align:center;
 }
 body{
-  background-color: #99badd;
 
+  background-color: #99badd;
   font-family: geneva;
+
 }
 .nav_link{
+
   text-decoration: none;
 
 }
@@ -56,12 +61,10 @@ p{
 
     display:flex;
 
-
 }
 
 .flex_nav{
     border-style: solid;
-
     width:25%;
     text-align: center;
     background-color: #4169E1;
@@ -126,8 +129,6 @@ p{
 
 }
 
-
-
 .contain div {
 
   width: 100%;
@@ -136,7 +137,6 @@ p{
 .contain .header {
   background-color: #4169E1;
   padding: 2px;
-
   cursor: pointer;
   font-weight: bold;
 }
